@@ -21,3 +21,9 @@ const places = document.getElementsByClassName('important-places');
 for(const place of places){
     console.log(place.innerText)
 }
+
+
+const someli = document.querySelectorAll('.fruits-container li')
+for(const li of someli){
+    console.log(li.innerText);
+}
