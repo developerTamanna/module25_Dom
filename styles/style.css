@@ -11,3 +11,12 @@ h1{
 .important-places{
     color:blueviolet;
 }
+
+.large-text{
+font-size: 2em;
+}
+.text-center{
+    /* background-color: yellow !important; */
+    text-align: center;
+    
+}
